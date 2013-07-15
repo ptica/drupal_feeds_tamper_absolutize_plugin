@@ -1,0 +1,6 @@
+name = Feeds tamper absolutize addon
+description = image/file field url absolutizer
+package = Feeds Addon
+dependencies[] = feeds
+dependencies[] = feeds_tamper
+core = 7.x
